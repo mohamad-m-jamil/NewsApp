@@ -4,7 +4,7 @@ A React Native mobile app built with Expo that fetches articles from the [GNews 
 
 ## Features
 
-- **Fetch N articles** — choose how many articles to load (1–100)
+- **Fetch N articles** — choose how many articles to load (1 - 10)
 - **Keyword search** — search articles via the GNews API
 - **Filter by title** — client-side filtering by article title
 - **Filter by author** — client-side filtering by author name
